@@ -1,4 +1,4 @@
-proxy = "http://cproxy.okinawa-ct.ac.jp:8080"
+proxy = "" # 学内プロキシを記載
 proxy () {
   case "$1" in
     on)
